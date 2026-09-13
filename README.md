@@ -6,6 +6,7 @@ I'm Alexandre, a high schooler from Georgia.
 * :gear: I use daily: C++, Java, Lua. 
 * :rocket: I'm working on some projects that I'm excited about.
 * :sweat_smile:  Fun fact: I got into programming because of game cheats! Booo...
+* 
                                                                                                                 <img width="211" height="200" alt="image" src="https://github.com/user-attachments/assets/a97bdf3d-d819-4fab-b432-250793fa9b6c" />
 
 <!--
