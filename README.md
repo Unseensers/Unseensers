@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+I'm Alexandre, a high schooler from Georgia.
+
+* :light_blue_heart: I love: compilers, operating systems and, occasionally, reverse engineering.
+* :gear: I use daily: C++, Java, Lua.
+* :rocket: I don't have many projects right now, but I'm working on some very interesting ones.
+* :sweat_smile:  Fun fact: I got into programming because of game cheats! Booo...
+ 
 <!--
 **Unseensers/Unseensers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -12,5 +19,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 
 -->
