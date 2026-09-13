@@ -2,8 +2,8 @@
 
 I'm Alexandre, a high schooler from Georgia.
 
-* :light_blue_heart: I love: compilers, operating systems and reverse engineering - anything that gets me close to the machine.  <img width="211" height="200" alt="image" src="https://github.com/user-attachments/assets/a97bdf3d-d819-4fab-b432-250793fa9b6c" />
-* :gear: I use daily: C++, Java, Lua.
+* :light_blue_heart: I love: compilers, operating systems and reverse engineering - anything that gets me close to the machine.  
+* :gear: I use daily: C++, Java, Lua. <img width="211" height="200" alt="image" src="https://github.com/user-attachments/assets/a97bdf3d-d819-4fab-b432-250793fa9b6c" />
 * :rocket: I'm working on some projects that I'm excited about.
 * :sweat_smile:  Fun fact: I got into programming because of game cheats! Booo...
 
