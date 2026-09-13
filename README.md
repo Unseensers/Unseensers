@@ -2,7 +2,7 @@
 
 I'm Alexandre, a high schooler from Georgia.
 
-* :light_blue_heart: I love: compilers, operating systems and, occasionally, reverse engineering.
+* :light_blue_heart: I love: compilers, operating systems and, occasionally, reverse engineering - anything that gets me close to the machine.
 * :gear: I use daily: C++, Java, Lua.
 * :rocket: I don't have many projects right now, but I'm working on some very interesting ones.
 * :sweat_smile:  Fun fact: I got into programming because of game cheats! Booo...
